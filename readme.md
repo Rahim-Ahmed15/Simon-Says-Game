@@ -30,19 +30,19 @@ A web-based **Simon Says memory game** built with **HTML**, **CSS**, and **JavaS
 
 ### 🏠 Home Screen
 
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home.PNG)
 
 ---
 
 ### 📊 Level & Score Screen
 
-![Score Screen](screenshots/score.png)
+![Score Screen](screenshots/score.PNG)
 
 ---
 
 ### 🏆 Highest Score Display
 
-![Highest Score](screenshots/hscore.png)
+![Highest Score](screenshots/hscore.PNG)
 
 ---
 
