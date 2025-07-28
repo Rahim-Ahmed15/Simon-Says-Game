@@ -2,9 +2,6 @@
 
 A web-based **Simon Says memory game** built with **HTML**, **CSS**, and **JavaScript**. The game flashes a sequence of colors which the user must memorize and replicate. Each level adds a new color to the sequence, and the game continues until the user makes a mistake.
 
-> 🔗 [Live Demo](https://your-live-link-here.com)  
-> 📂 Deployed and maintained by [Your GitHub Username]
-
 ---
 
 ## 🎮 Features
